@@ -1,0 +1,43 @@
+/* .relative {
+    background-color: rgba(255, 255, 255, 0.7);  white transparent background 
+    border-radius: 20px; /* rounded corners 
+    padding: 20px;   
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); add a subtle shadow 
+    
+ 
+  }
+  */
+  .text-primary {
+    text-align: right;
+    
+  }
+  .lead {
+text-align: center;
+  }
+  .container {
+    max-width: 800px; 
+    margin: 40px auto; 
+    padding: 20px; 
+    border-radius: 20px; 
+    background-color: rgba(255, 255, 255, 0.7);
+  }
+     
+  .row {
+    margin: 0 -20px; /* remove margin from the row */
+  }
+  
+  .col-lg-6 {
+    padding: 20px; /* add some padding to make the content more readable */
+  }
+  
+  .display-5 {
+    color: #333; /* set a dark text color */
+  }
+  
+  .lead {
+    color: #666; /* set a medium dark text color */
+  }
+  
+  .btn {
+    border-radius: 10px; /* rounded corners for buttons */
+  }
